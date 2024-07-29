@@ -1,0 +1,60 @@
+body{
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    align-items: center;
+    width: 50%;
+    justify-content: space-between;
+    
+}
+.form h1, .form p{
+    text-align: center;
+}
+form{
+    width: 80%;
+    margin: 80px;
+    left: 50%;
+    align-content: center;
+}
+input[type="text"]{
+    height: 1vw;
+}
+input[type="text"]{
+    display: block;
+}
+input[type="text"] , input[type="select"] {
+    display: inline;
+    width: 100%;
+
+}
+
+.Name , .dob , .Gender , .Contact , .Address{
+    background-color: white;
+    margin: 25px;
+    border: 1px solid white;
+    padding: 25px;
+    border-radius: 10px;
+}
+input,label{
+    margin: 10px;
+
+}
+.Campus{
+    background-color: white;
+    margin: 25px;
+    border: 1px solid white;
+    padding: 25px;
+    border-radius: 10px;
+}
+select{
+    width: 20%;
+}
+label{
+    display: block;
+}
+fieldset{
+    border-radius: 10px;
+    border: 5px solid black;
+}
