@@ -1,6 +1,5 @@
 body{
-    background-image: url("chalkpadppro.jpg");
-
+    background-image: url("https://cchm.codebrigade.in/images/Chitkara_University_pic.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -8,12 +7,10 @@ img{
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  
 }
 div{
     width: 300px;
     height: 600px;
-
 }
 form{
     background-color: #ffff;
@@ -22,23 +19,20 @@ form{
     float: right;
     margin: 150px;
     padding: 10px;
-    
 }
-input,
-  textarea,
-  select {
+input,textarea,select {
     margin: 10px 0 0 0;
     width: 90%;
     min-height: 10px;
     padding: 5px;
-  }
-  button{
+}
+button{
     color: white;
-    background-color: red;
+    background-color: rgb(189, 3, 3);
     margin: center;
     display: block;
     padding: 10px 100px 10px 100px;
-  }
-  .RememberPassword{
+}
+.RememberPassword{
     display: inline-block;
   }
